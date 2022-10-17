@@ -1,4 +1,5 @@
 //c++ implementation to print tables
+//Write code to get user input , do times table and print the output as times table. For eg, if the user inputs 6, you should print 
 #include <iostream>
 using namespace std;
 

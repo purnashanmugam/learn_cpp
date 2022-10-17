@@ -1,3 +1,8 @@
+/*
+Assume an institution has setup exam paper for each department students.  Depending on student's department, appropriate exam function needs to be called. Assume there are 100 students and each student studies in a department. There are 5 departments - Electrical, CS, Electronics, Civil. Mechanical. And Each department has provided a function call () to be invoked for its department student. For eg. assessCSStudent() is the function to be called for the computer science student..  Write code to achieve this... USe arrays to store students data, use pointers to array to traverse student list, use enumeration for departments and use function pointers to invoke appropriate assessment call. 
+Also suggest how this implementation could have been made simpler.
+*/
+
 #include<iostream>
 #include<string>
 using namespace std;

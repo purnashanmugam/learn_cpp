@@ -1,5 +1,6 @@
 // C++ implementation to print square and cube
 #include <iostream>
+//Write code to get user input, do square and then cube of the number and print.
 using namespace std;
 
 void square(int&);

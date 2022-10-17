@@ -1,5 +1,10 @@
 // C++ implementation to read
 // file word by word
+/*
+Write a file (name it filename) with many words. Open this file, read the words , find the length of each word and print frequency of word-lengths from 1-10.  Call the program wordlengths.cpp. 
+* Keep the "filename" file in the same folder as the code.
+* Create array for storing frequency of word-lengths and name it frequency[]
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
